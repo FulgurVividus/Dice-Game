@@ -6,7 +6,7 @@ Welcome to Dice Game, a simple and fun project to practice HTML, CSS, and JavaSc
 
 - **HTML:** The project features a straightforward and user-friendly interface created using HTML. This makes the game easy to understand and enjoyable for players of all ages.
 
-- **CSS:** The styling is designed to enhance the visual appeal of the game, making it visually pleasing and responsive.
+- **CSS:** The styling is designed to enhance the visual appeal of the game, making it visually pleasing.
 
 - **JavaScript:** The core functionality of the game is implemented using JavaScript, with a focus on DOM manipulation. This project serves as a practical exercise to reinforce skills related to handling user interactions and dynamically updating the content on the web page.
 
