@@ -12,7 +12,7 @@ Welcome to Dice Game, a simple and fun project to practice HTML, CSS, and JavaSc
 
 ## How to Play
 
-1. **Roll Dice:** Players take turns pressing the 'Roll Dice' button to roll a virtual die. The dice result is a random number between 1 and 6.
+1. **Roll Dice:** Players take turns pressing the 'Roll Dice' button to roll a virtual dice. The dice result is a random number between 1 and 6.
 
 2. **Game Rules:**
    - If a player rolls a 1, they lose their current score, and their turn ends.
