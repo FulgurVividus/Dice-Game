@@ -1,8 +1,8 @@
-# Dice Game
+# Dice Game 🎲
 
 Welcome to Dice Game, a simple and fun project to practice HTML, CSS, and JavaScript, with a focus on DOM manipulation. This project is designed to provide a friendly interface for players to enjoy a classic dice game.
 
-## Project Structure
+## Project Structure 🏗️
 
 - **HTML:** The project features a straightforward and user-friendly interface created using HTML. This makes the game easy to understand and enjoyable for players of all ages.
 
@@ -10,7 +10,7 @@ Welcome to Dice Game, a simple and fun project to practice HTML, CSS, and JavaSc
 
 - **JavaScript:** The core functionality of the game is implemented using JavaScript, with a focus on DOM manipulation. This project serves as a practical exercise to reinforce skills related to handling user interactions and dynamically updating the content on the web page.
 
-## How to Play
+## How to Play 🕹️
 
 1. **Roll Dice:** Players take turns pressing the 'Roll Dice' button to roll a virtual dice. The dice result is a random number between 1 and 6.
 
@@ -21,6 +21,6 @@ Welcome to Dice Game, a simple and fun project to practice HTML, CSS, and JavaSc
 
 3. **New Game:** To start a new game, players can click the 'New Game' button, resetting the scores and starting a fresh round.
 
-## Enjoy and Have Fun!
+## Enjoy and Have Fun! 🤪
 
 Dice Game is a delightful project designed for both learning and entertainment. Whether you are refining your web development skills or looking for a casual gaming experience, this project offers an engaging way to practice and enjoy the world of web development. Feel free to explore, play, and have fun rolling those dice!
